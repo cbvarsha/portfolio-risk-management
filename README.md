@@ -18,13 +18,13 @@ and market risk modelling using Python.
 - Python-based implementation
 
 ## Repository Structure
-'''
+````
 portfolio-risk-management/
-├── notebooks/ # Python notebooks for analysis
+├── notebooks/ # Python AND matlb notebooks for analysis
 ├── reports/ # PDF reports (individual & group projects)
-├── data/ # Input datasets (if applicable)
+├── data/ # Input datasets 
 └── README.md
-'''
+````
 
 
 ## Team Project Note
